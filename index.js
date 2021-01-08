@@ -1,4 +1,4 @@
-document.getElementById("currYear").textContent = new Date().getFullYeargetFullYear;
+document.getElementById("currYear").textContent = new Date().getFullYear();
 
 let daynames = [
     "Sunday",

@@ -1,0 +1,17 @@
+header{
+    background-color: orangered;
+    text-align: center;
+    
+}
+
+footer{
+    background-color: orangered;
+    text-align: center;
+}
+
+img{
+    position: absolute;
+    right: 0px;
+    width: 25%;
+    height: 20%;
+}
